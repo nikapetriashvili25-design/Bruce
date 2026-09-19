@@ -26,6 +26,7 @@ MainMenu::MainMenu() {
         &scriptsMenu,
 #endif
         &clockMenu,
+        &fruitGame,
         &othersMenu,
         &configMenu,
     };
